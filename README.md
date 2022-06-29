@@ -38,7 +38,7 @@ JavaScript, Node, NPM, MongoDB, Apollo, GraphQL
 
 ## Site Link
 
-https://bobpruz.github.io/react-portfolio/
+https://bobpruz-booksearch.herokuapp.com/
 
 ## Screenshot
 
